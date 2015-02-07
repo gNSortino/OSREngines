@@ -1,4 +1,4 @@
-# 2014-GOXEthanolTestIgniter
+# 2014 - GOX Ethanol Injector
 
 ## Description
 My first attempt at 3D printing an injecotr. The injecor has 3 inputs:
@@ -7,7 +7,6 @@ My first attempt at 3D printing an injecotr. The injecor has 3 inputs:
 3. Flame Tube from spark igniter
 
 The injetor is meant to mate with:
-The engine is meant to mate with:
 * [This engine](../../Engines/2014-GOXEthanolRegenEngine)
 * [This igniter](../../Igniters/2014-GOXEthanolTest)
 
