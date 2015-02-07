@@ -1,4 +1,4 @@
-# 2014-GOXEthanolTestIgniter
+# 2014 - GOX Ethanol Test Igniter
 
 ## Description
 My first attempt at 3D printing a spark igniter. The igniter is designed to run off GOX/Ethanol at 100psia and produce 2.5 lbf of thrust. The igniter has many ports to in order to find the optimal orifice designs and work out some issues with my earlier traditionally machined igniters.
