@@ -9,8 +9,8 @@ You can do whatever you like with these files provided it complies with the Crea
 
 ## Repository Structure??
 This repository has the following structure:
-* Each folder in the below directories is a self-contained unit containing stl files, design files/analysis, and other supporting material. The contents of each folder may varies so check each one individually for details
+* Each folder in the below directories is a self-contained unit containing stl files, design files/analysis, and other supporting material. The contents of each folder may vary so check each one individually for details
   * Igniters
   * Injectors
   * Engines
-* Each folder in the directory combined contains multiple objects. For example, If an igniter, injector, and engine are meant to be used together a copy of all 3 files will be saved here with pointers to the underlying components.
+* Each folder in the directory **combined** contains multiple objects. For example, If an igniter, injector, and engine are meant to be used together a copy of all 3 files will be saved here with pointers to the underlying components.
