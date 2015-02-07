@@ -3,6 +3,10 @@
 ## Description
 My first attempt at producing a working regenerative 3D printed engine. Unfortunately, the regenerative channels did not print correctly (this is a challenge with SLS printing), however, the engine successfully fired. I learned a lot from the experience and plan to use this experience to improve for future designs.
 
+The engine is meant to mate with:
+* [This injector](../../Injectors/2014-GOXEthanolInjector)
+* [This igniter](../../Igniters/2014-GOXEthanolTest)
+
 ## Build Instructions
 This is an STL only. Unfortunately, I do not have the underlying files
 
