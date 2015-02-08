@@ -12,6 +12,7 @@ This repository has the following structure:
 * Igniters
 * Injectors
 * Engines
-Each folder in the above directories is a self-contained unit containing stl files, design files/analysis, and other supporting materials. The contents of each folder may vary so check each one individually for details. 
 
-In many cases components are meant to mate with each other. For example, an engine may mate with a specific injector and igniter. In these instances pointers to the additional components are referenced. So if you are interested in testing an engine that goes with a specific injector you could either download the corresponding injector or modify the engine to mate with a diffierent injector. All design files contain details of port-fitting, etc... so it should be relatively straightforward to connect these components.
+Every sub-folder in the above directories is a self-contained unit containing stl files, design files/analysis, and other supporting materials. The contents of each folder may vary so check each one individually for details. 
+
+In many cases components are meant to mate with each other. For example, an engine may be designed to mate with a specific injector and igniter. In these instances pointers to the additional components are referenced. So if you are interested in testing an engine that goes with a specific injector you could either download the corresponding injector or modify the underlying CAD file to mate with a diffierent injector. All design files contain details of port-fitting, etc... so it should be relatively straightforward to connect these components.
